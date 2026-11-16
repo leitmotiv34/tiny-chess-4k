@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/leitmotiv34/tiny-chess-4k/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/leitmotiv34/tiny-chess-4k/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A chess engine in 4,093 bytes of Python (main.py, lzma-packed). 0x88 board,
+A chess engine in 3,320 bytes of Python (main.py, lzma-packed). 0x88 board,
 alpha-beta search with a transposition table, principal-variation search,
 late-move reductions, quiescence and check evasions under a fixed
 60,000-node budget per move; material plus piece-square evaluation with an
